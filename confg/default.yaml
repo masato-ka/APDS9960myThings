@@ -1,0 +1,17 @@
+config:
+    server:
+        url:"http://[host]/data"
+    trigger1:
+        - uuid:""
+        - token:""
+    trigger2:
+        - uuid:""
+        - token:""
+    trigger3:
+        - uuid:""
+        - token:""
+    trigger4:
+        - uuid:""
+        - token:""
+    
+    

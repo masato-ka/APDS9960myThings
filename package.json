@@ -1,0 +1,14 @@
+{
+  "name": "myThings for APDS9960",
+  "description": "This Application running on Intel Edison. And send to Trriger for Yahoo myThings via IDCF Cloud.",
+  "version": "0.0.1",
+  "main": "main.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "config":"latest",
+    "js-yaml":"latest",
+    "request":"latest"
+  }
+}
